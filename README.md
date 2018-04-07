@@ -2,4 +2,4 @@
 Controle de Estoque
 
 
-Desenvolvido por Janaina e Fabinho (Professor)
+Desenvolvido por Janaina e Fabinho (Professor e amigo)
